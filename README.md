@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MERN Travel Diaries Blog
+----------------------------
+Backened Repo Link : https://github.com/saurabhkara/Travel-Dairies-Blog-Backend
+----------------------------------------
+
+![travel](https://user-images.githubusercontent.com/28596628/212534327-94f60638-4f6e-46ce-8abe-d6606bf1dab9.png)
 
 ## Available Scripts
 
